@@ -6,6 +6,7 @@ I encountered a few issues. After my initial setup of the MHN Admin VM, I was un
 A summary of data follows:
 
 Number of attacks while running: 2684
+
 Top 5 ports: 42, 8088, 23, 445, 8545
 Top 5 Attack Signatures: ET DROP Dshield Block Listed Source group 1 (34 times)
                          ET CINS Active Threat Intelligence Poor Reputation IP TCP group 75 (2 times)
