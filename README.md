@@ -8,11 +8,7 @@ A summary of data follows:
 Number of attacks while running: 2684
 
 <p>Top 5 ports: 42, 8088, 23, 445, 8545</p>
-<p>Top 5 Attack Signatures: ET DROP Dshield Block Listed Source group 1 (34 times)</p>
-                         ET CINS Active Threat Intelligence Poor Reputation IP TCP group 75 (2 times)
-                         ET CINS Active Threat Intelligence Poor Reputation IP TCP group 30 (1 times)
-                         ET CINS Active Threat Intelligence Poor Reputation IP TCP group 23 (1 times)
-                         ET CINS Active Threat Intelligence Poor Reputation IP TCP group 47 (1 times)
+<p>Top 5 Attack Signatures: ET DROP Dshield Block Listed Source group 1 (34 times). <b>ET CINS Active Threat Intelligence Poor Reputation IP TCP group 75</b> (2 times).<b> ET CINS Active Threat Intelligence Poor Reputation IP TCP group 30</b> (1 time). <b>ET CINS Active Threat Intelligence Poor Reputation IP TCP group 23</b> (1 times). <b>ET CINS Active Threat Intelligence Poor Reputation IP TCP group 47</b> (1 times)
                          
-I had no real unanswered questions concerning the data. Overall this project took approximately 3 hours to complete.
+<p>I had no real unanswered questions concerning the data. Overall this project took approximately 3 hours to complete.</p>
 
