@@ -11,6 +11,6 @@ Number of attacks while running: 2684
 <p>Top 5 Attack Signatures: ET DROP Dshield Block Listed Source group 1 (34 times). <b>ET CINS Active Threat Intelligence Poor Reputation IP TCP group 75</b> (2 times).<b> ET CINS Active Threat Intelligence Poor Reputation IP TCP group 30</b> (1 time). <b>ET CINS Active Threat Intelligence Poor Reputation IP TCP group 23</b> (1 times). <b>ET CINS Active Threat Intelligence Poor Reputation IP TCP group 47</b> (1 times)
                          
 <p>I had no real unanswered questions concerning the data. Overall this project took approximately 3 hours to complete.</p>
-![]https://github.com/Calberrycoder/CyberSecMod9/blob/master/Honeypot.gif
+<img src=https://github.com/Calberrycoder/CyberSecMod9/blob/master/Honeypot.gif>
       
 
